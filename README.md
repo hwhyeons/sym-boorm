@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="2334" height="1317" alt="home" src="https://github.com/user-attachments/assets/196843de-e45c-4a15-83ea-c6ed92dfed00" />
+<img width="2334" height="1317" alt="home" src="docs/img/home.png" />
 
 
 # 쉼, 부름
@@ -125,18 +125,18 @@ https://github.com/user-attachments/assets/eacfde92-ef0a-4826-be33-814836bd9dcc
                      └──────── 실시간 추적 ────────┘
 ```
 
-<img width="1867" height="677" alt="image" src="https://github.com/user-attachments/assets/71e65630-ce26-493a-8fa7-09d60237c447" />
+<img width="1867" height="677" alt="image" src="docs/img/readme-core-flow.png" />
 
 
 ---
 
 ## 서비스 아키텍쳐
-<img width="1504" height="1656" alt="image" src="https://github.com/user-attachments/assets/b016bcd7-afc1-44ef-afa1-63b127493370" />
+<img width="1504" height="1656" alt="image" src="docs/img/readme-architecture.png" />
 
 
 
 ### ERD
-<img width="4650" height="2342" alt="image" src="https://github.com/user-attachments/assets/d53e9b18-66ec-49f7-9a71-cff1821025e5" />
+<img width="4650" height="2342" alt="image" src="https://github.com/user-attachments/assets/2e94e0ae-62c6-4b7d-9702-b440dc3e6704" />
 
 
 
