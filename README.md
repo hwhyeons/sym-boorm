@@ -79,29 +79,42 @@
 
 https://github.com/user-attachments/assets/d87bff5f-9a15-4978-9ed6-0d7101438401
 
+<br>
 
 
 ### 2. **주변 드리미 매칭** — 주변에 대기 중인 드리미에게 실시간으로 제안을 보내고, 가장 먼저 수락한 드리미로 배정합니다.
+
+<br>
+
 ### 3. **부르미 확인** — 드리미가 수락하면 부르미에게 확인 알림이 가고, 부르미가 승인하면 매칭이 완료됩니다.
 
-https://github.com/user-attachments/assets/0073e522-5d08-407e-b580-e9a19436e5d4
+https://github.com/user-attachments/assets/e3e346d8-9990-458b-a70f-40d078708c05
+
+<br>
 
 ### 4. **픽업 인증** — 드리미가 물품을 픽업하면서 사진으로 인증하면 배달이 시작됩니다.
 
-https://github.com/user-attachments/assets/93de7eec-5791-4928-8c26-4c58e0882168
+https://github.com/user-attachments/assets/e145c92e-a933-431f-a501-3372c786aaa2
+
+<br>
 
 ### 5. **실시간 추적** — 픽업부터 전달까지 부르미는 드리미의 실시간 위치를 지도에서 확인할 수 있습니다.
 
-https://github.com/user-attachments/assets/6821df7b-c08f-4e9f-bb28-a2c54caed6cc
+https://github.com/user-attachments/assets/63b38cc1-7775-409b-bb46-394184d79925
+
+<br>
 
 ### 6. **전달 인증** — 드리미가 도착지에서 전달 완료를 사진으로 인증하면 주문이 완료 처리됩니다.
 
-https://github.com/user-attachments/assets/dafdf5b5-3258-4575-abc0-3c9333ebda79
+https://github.com/user-attachments/assets/eacfde92-ef0a-4826-be33-814836bd9dcc
+
+<br>
 
 ### 7. **정산 · 평점** — 배달비가 드리미에게 정산되고, 부르미와 드리미가 서로에게 별점을 남깁니다.
 
 드리미는 마이페이지에서 본인인증(신분증·범죄이력조회서)을 마치면 전환되고, 홈 화면 상단 토글로 한 계정 안에서 부르미·드리미 역할을 그때그때 바꿔가며 쓸 수 있습니다.
 
+<br>
 
 ---
 
